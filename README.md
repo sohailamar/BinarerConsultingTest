@@ -1,19 +1,19 @@
 # BinarerConsultingTest
 Created for submitting an assignment
 
-1: run npm install
-2: composer install
-3: npm run dev
-4: PHP artisan serve
-5: PHP artisan migrate
+1: run npm install <br>
+2: composer install <br>
+3: npm run dev <br>
+4: PHP artisan serve <br>
+5: PHP artisan migrate <br>
 
 You need to run these commands to run the project smoothly
 
-#Versions 
+#Versions <br>
 
-Laravel 5.6 + VueJs
+Laravel 5.6 + VueJs <br>
 
-#Instructions
+#Instructions <br>
 
 You need to run migrate command to create table then this will work.
 Front end validation are handled by VueJs
